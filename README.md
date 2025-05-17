@@ -2,30 +2,30 @@
 
 This project explores fitness tracker data to analyze user activity trends, health metrics, and behavioral patterns.
 
-## Dataset
+## Dataset :
 
 A sample dataset (`fitness_data.csv`) includes daily metrics such as:
 
-> Steps
-> Calories Burned
-> Distance (KM)
-> Active Minutes
-> Sleep Hours
-> Resting Heart Rate
+1) Steps
+2) Calories Burned
+3) Distance (KM)
+4) Active Minutes
+5) Sleep Hours
+6) Resting Heart Rate
 
-## Features
+## Features :
 
-> Time series analysis of daily activity
-> Correlation between sleep, steps, and heart rate
-> Visual insights into fitness behavior
+1) Time series analysis of daily activity
+2) Correlation between sleep, steps, and heart rate
+3) Visual insights into fitness behavior
 
-## Visualizations
+## Visualizations :
 
-> Line plot of daily steps and sleep
-> Correlation heatmap of all metrics
-> Heart rate trends over the week
+1) Line plot of daily steps and sleep
+2) Correlation heatmap of all metrics
+3) Heart rate trends over the week
 
-### Requirements
+### Requirements :
 
 Install the dependencies:
 
