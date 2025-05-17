@@ -27,8 +27,20 @@ A sample dataset (`fitness_data.csv`) includes daily metrics such as:
 
 ### Requirements :
 
-Install the dependencies:
+1) Install the dependencies:
 
 ```bash
 > pip install pandas matplotlib seaborn
 ```
+
+2) Run the analysis:
+
+```bash
+> python analysis.py
+```
+
+## Author
+
+Name: Ananda Saikia
+Email: anandasaikiacse@gmail.com
+Project Date: May 18, 2025
