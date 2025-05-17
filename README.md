@@ -39,7 +39,7 @@ A sample dataset (`fitness_data.csv`) includes daily metrics such as:
 > python analysis.py
 ```
 
-## Author
+## Author :
 
 Name: Ananda Saikia || 
 Email: anandasaikiacse@gmail.com || 
