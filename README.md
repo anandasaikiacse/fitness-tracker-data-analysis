@@ -41,6 +41,6 @@ A sample dataset (`fitness_data.csv`) includes daily metrics such as:
 
 ## Author
 
-Name: Ananda Saikia
-Email: anandasaikiacse@gmail.com
+Name: Ananda Saikia || 
+Email: anandasaikiacse@gmail.com || 
 Project Date: May 18, 2025
